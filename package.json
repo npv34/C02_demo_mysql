@@ -1,0 +1,13 @@
+{
+  "name": "shop-manager",
+  "version": "1.0.0",
+  "scripts": {
+    "start:dev": "nodemon ./server.js",
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22",
+    "qs": "^6.11.2"
+  }
+}
